@@ -1,6 +1,3 @@
-/*Couleur hover blue #007494 */
-/*Couleur hover red #e7302f */
-/*Couleur menu rgba(30,30,30,0.8) */
 @font-face {
     font-family: 'neovix';
     src: url('font/neovix_basic-webfont.woff2') format('woff2'),
@@ -42,6 +39,7 @@ img{
 
 a{
     text-decoration: none;
+    color: white;
 }
 
 a:visited{
